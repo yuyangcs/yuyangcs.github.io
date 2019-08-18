@@ -1,0 +1,23 @@
+body {
+	padding-top: 0px;
+	font-size:17px;	
+	font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-align: justify
+}
+.homepage-container {
+  padding: 30px 15px;
+}
+
+.avatar{
+	float: right;	
+	width: 33%;
+	padding: 0px 50px;
+}
+
+.intro{
+	float: left;
+	width: 67%;
+	text-align: left;
+}
+
+
